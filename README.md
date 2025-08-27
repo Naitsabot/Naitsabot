@@ -1,3 +1,6 @@
+## [GitHub Pages Page](https://naitsabot.github.io/)
+[naitsa.github.io](https://naitsabot.github.io/)
+
 ## Hello there! (clears throat) I'm Sebastian 🍄
 Although my handle "Naitsabot" ends in "bot" I'm not one of them. \
 What I'm am is a a software student interested in writing code that is bareable to look at, which mostly consists of writing small projects of whatever comes to my mind, and then forgetting to put them on GitHub. 👉😎👉
