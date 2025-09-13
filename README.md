@@ -10,6 +10,7 @@ What I'm am is a a software student interested in writing code that is bareable 
 | <img title="Nim" height="16em" width="16em" src="https://github.com/devicons/devicon/blob/master/icons/nim/nim-original.svg">&nbsp;**Nim**
 | <img title="C" height="16em" width="16em" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">&nbsp;**C**
 | <img title="C++" height="16em" width="16em" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">&nbsp;**C++**
+| **JavaScript**
 | <img title="Java" height="16em" width="16em" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">&nbsp;**Java**
 | <img title="Svelte" height="16em" width="16em" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg">&nbsp;**Svelte/SvelteKit**
 | [ **t** ]&nbsp;**Typst**
@@ -25,8 +26,10 @@ What I'm am is a a software student interested in writing code that is bareable 
 
 ---
 
-| [![Naitsabot's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Naitsabot&show_icons=true&theme=default&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naitsabot&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
-| --- | --- |
+[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+
+<!-- | [![Naitsabot's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Naitsabot&show_icons=true&theme=default&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naitsabot&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| --- | --- | -->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naitsabot&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
