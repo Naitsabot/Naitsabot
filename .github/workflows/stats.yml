@@ -3,6 +3,9 @@ name: user-statistician
 on:
   schedule:
     - cron: '0 3 * * *'
+  push:
+    branches: [ main, master ]
+    paths: [ '.github/workflows/stats.yml' ]
   workflow_dispatch:
 
 jobs:
@@ -15,10 +18,6 @@ jobs:
     - name: Generate the user stats image
       uses: cicirello/user-statistician@v1
       with:
-        colors: dark-dimmed
-        custom-title: My GitHub Statistics
-        hide-keys: joined, mostStarred, mostForked, followers, following, private
-        max-languages: 100
-        animated-language-chart: true
+        hide-keys: general, repositories
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
