@@ -10,7 +10,7 @@ What I'm am is a a software student interested in writing code that is bareable 
 | <img title="Nim" height="16em" width="16em" src="https://github.com/devicons/devicon/blob/master/icons/nim/nim-original.svg">&nbsp;**Nim**
 | <img title="C" height="16em" width="16em" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">&nbsp;**C**
 | <img title="C++" height="16em" width="16em" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">&nbsp;**C++**
-| **JavaScript**
+| <img title="Java" height="16em" width="16em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;**JavaScript**
 | <img title="Java" height="16em" width="16em" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">&nbsp;**Java**
 | <img title="Svelte" height="16em" width="16em" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg">&nbsp;**Svelte/SvelteKit**
 | [ **t** ]&nbsp;**Typst**
